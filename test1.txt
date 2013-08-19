@@ -1,2 +1,4 @@
-version 2. Add some content August 13th 6:00pm
+version 3. Add some content August 13th 6:00pm
 in the master branch
+
+add in the 3rd version
