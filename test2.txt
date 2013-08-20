@@ -1,5 +1,5 @@
-version 3, edited on August 19th 2013
+version 6, edited on August 19th 2013
 
 change it again with commit amend
 
-Change it in the test branch. Version 3 
+Change it in the test branch. Version 6 
