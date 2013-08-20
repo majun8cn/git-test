@@ -1,5 +1,7 @@
-version 2, edited on August 19th 2013
+version 6, edited on August 19th 2013
 
 change it again with commit amend
 
-change it for hotfix branch. Version 7. August 19th
+change it for hotfix branch. Version 7. August 19th. 
+Merge in
+Change it in the test branch. Version 6 
