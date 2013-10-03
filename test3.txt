@@ -1,5 +1,4 @@
 add new contnet test text3
 
 change the file for rebase 1
-chagne the file for rebase 2
-change the file for rebase 3
+change the file for rebase 4
